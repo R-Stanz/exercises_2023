@@ -19,6 +19,7 @@ public class Main {
 	    for(Integer i = 0; i < iterations; i++)
 		    input.nextLine();
 
+	    input.close();
 	    System.out.println("Ciencia da Computacao");
     }
  
